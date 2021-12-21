@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "firstname": "Teerapat",
+      "lastName": "Pliankaew",
+      "email": "thebasza.2544@gmail.com",
+      "telephone": "0988139815",
+      "salary": "20000"
+    },
+    {
+      "id": 2,
+      "firstname": "Teerapaat",
+      "lastName": "aaa",
+      "email": "aa@",
+      "telephone": "09813",
+      "salary": "1000"
+    },
+    {
+      "id": 3,
+      "firstname": "Pawarit",
+      "lastName": "Boonsong",
+      "email": "makenpt99@gmail.com",
+      "telephone": "+66649021383",
+      "salary": "55555"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
